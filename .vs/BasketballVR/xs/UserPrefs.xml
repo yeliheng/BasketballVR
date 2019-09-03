@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8ED3D580-12C4-25F0-AD1A-D1E3C0029DDB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BasketballGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/OutAutoGrab.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/BasketballGame.cs" Line="31" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasketballVR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BasketballGame.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c5c6c20-bb8f-4983-80c0-0f05b9fc0c64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
