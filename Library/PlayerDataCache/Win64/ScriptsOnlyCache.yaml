@@ -41,7 +41,6 @@ ScriptsOnlyBuild:
     - VRTK.WindowsMR_TrackedObject
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -2991,4 +2990,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Main.unity
-  playerPath: /Users/yeliheng/u3d_project/BasketballVR/BasketballGame/WindowsTest/BasketballVR.exe
+  playerPath: "/Users/yeliheng/u3d_project/BasketballVR/\u7BEE\u7403/BasketballVR.exe"

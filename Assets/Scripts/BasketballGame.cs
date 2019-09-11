@@ -38,7 +38,7 @@ public class BasketballGame : MonoBehaviour
     private void init()
     {
         score.text = "0";
-        totalBall = 10;
+        totalBall = 1;
         ball.text = totalBall.ToString();
         ballCircle = false;
         isGameOver = false;
@@ -127,7 +127,7 @@ public class BasketballGame : MonoBehaviour
         //剩余球数为0时掉出游戏结束UI
         if(totalBall == 0)
         {
-            Invoke("onGameOver", 3);
+            onGameOver();
         }
        
         
